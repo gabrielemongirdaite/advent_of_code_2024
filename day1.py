@@ -1,6 +1,5 @@
 import time
 import re
-import copy
 
 start_time = time.time()
 # print('1st part answer: ' + str(r))
